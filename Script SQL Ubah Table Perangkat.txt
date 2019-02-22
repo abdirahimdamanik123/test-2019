@@ -1,0 +1,1 @@
+UPDATE `tes_praktek`.`perangakt` SET `jumlah` = '8' WHERE `perangakt`.`id` = 3;
