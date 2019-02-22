@@ -1,1 +1,1 @@
-CREATE TABLE perangakt( id int primary key, nama varchar(32), jumlah int)
+CREATE TABLE perangkat( id int primary key, nama varchar(32), jumlah int)
